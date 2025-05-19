@@ -1,0 +1,16 @@
+langchain-chroma
+langchain
+python-dotenv
+langchain-community
+ipykernel
+beautifulsoup4
+faiss-cpu
+streamlit
+langserve
+uvicorn
+pandas
+numpy
+langsmith
+langchain-groq
+langchain-core
+fastapi
